@@ -18,13 +18,13 @@ To do this, you will have to:
 
 # Step 1: Download the Report
 
-     Download the Power BI report titled CO2 Emissions by Vehicle and open it in Power BI Desktop.
+      • Download the Power BI report titled CO2 Emissions by Vehicle and open it in Power BI Desktop.
 
 # Step 2: Identify Key Influencers of CO2 Emissions
 
-     Go to the Data view in Power BI and select the Vehicles table. Focus on the CO2 emissions column, along with other attributes like Transmission, Engine Size (cm3), Fuel Type, and Powertrain, which could explain variations in CO2 
-     
-     emissions.
+      • Go to the Data view in Power BI and select the Vehicles table. Focus on the CO2 emissions column, along with other attributes like Transmission, Engine Size (cm3), Fuel Type, and 
+      
+        Powertrain, which could explain variations in CO2 emissions.
 
 ![image_alt](https://github.com/DSgenes/Root-Cause-Analysis-RCA/blob/e8ef06855391bfb43dc31d2d4202afd3f4941d36/Screenshot%201.png)
 
@@ -39,3 +39,13 @@ To do this, you will have to:
   4. Analyze the key influencers displayed by the visual.
 
 ![image_alt](https://github.com/DSgenes/Root-Cause-Analysis-RCA/blob/ea429e6a231f78fda6afde536c6c434a6ef6eba1/Screenshot%202.png)
+
+  5. Create Scatter Plot
+
+     • Observe the scatter plot showing the relationship between Engine Size (cm³) and the Average CO2 Emission in the generated visualizations.
+
+     • Recreate this plot in your report by selecting a Scatter Plot visual.
+
+     • Add Engine Size (cm³) to the X-axis and CO2 Emission to the Y-axis.
+
+     • Change the default Sum of CO2 Emission on the Y-axis to Average by clicking the down arrow next to the field.
