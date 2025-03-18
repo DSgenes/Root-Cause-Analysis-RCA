@@ -110,7 +110,7 @@ To do this, you will have to:
 
      • Leverage the AI functionality to identify the lowest average CO2 emission for vehicles with Powertrain: Hybrid Electric Vehicle (HEV).
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Root-Cause-Analysis-RCA/blob/d93f174230a4fdba56bfaeda50487f50a2a9688c/Screenshot%2011.png)
 
 # Summary
    
