@@ -62,7 +62,7 @@ To do this, you will have to:
 
    3. Observe that Sum of Engine Size is a segment on its own, significantly influencing CO2 emissions, reinforcing the importance of the scatter plot from the previous step.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Root-Cause-Analysis-RCA/blob/bd85a44322fc5e2453e6b646439b1a3258a3c8cf/Screenshot%205.png)
 
    4. In the remaining segments, observe that besides the previously visualized fields, Powertrain and Transmission combined are also key factors influencing CO2 emissions.
 
