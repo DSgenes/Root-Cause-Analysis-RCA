@@ -50,7 +50,7 @@ To do this, you will have to:
 
      • Change the default Sum of CO2 Emission on the Y-axis to Average by clicking the down arrow next to the field.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Root-Cause-Analysis-RCA/blob/58e18e50319587a902ce81ed33d04ad7bf431f2c/Screenshot%203.png)
 
 # Step 4: Use Top Segments Tool
 
