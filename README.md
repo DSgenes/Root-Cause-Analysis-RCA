@@ -82,7 +82,7 @@ To do this, you will have to:
 
      • Use a Pie or Donut chart to visualize the distribution of these fuel types.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Root-Cause-Analysis-RCA/blob/d8685393c0ad7c5ecddd7c3730d5b7c3f0bb2bfc/Screenshot%208.png)
 
 # Step 5: Build a Decomposition Tree with AI Capabilities
 
