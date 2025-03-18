@@ -115,8 +115,6 @@ To do this, you will have to:
 # Summary
    
    In this exercise, you learned how to create an effective report by utilizing specialized Power BI visualizations like key influencers and decomposition trees to uncover meaningful 
-   
    patterns in data. By harnessing the power of AI-driven visuals, you built a detailed report that illustrates the connection between vehicle attributes and CO2 emissions, providing a 
-   
    clear understanding of their impact on air pollution.
 
