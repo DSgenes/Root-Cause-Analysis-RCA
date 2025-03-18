@@ -92,7 +92,7 @@ To do this, you will have to:
 
    2. Add the Average of CO2 Emission to the Analyze field and relevant attributes to the Explain by field.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Root-Cause-Analysis-RCA/blob/ae50db18f7cda8e410780bd180eeb5285c6d3d09/Screenshot%209.png)
 
    3. Expand all attributes in the decomposition tree by clicking the + symbol on the right side of each bar. Note that Engine Size (cm³), due to its high cardinality, cannot be
    
