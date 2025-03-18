@@ -26,6 +26,8 @@ To do this, you will have to:
      
      emissions.
 
+![image_alt](https://github.com/DSgenes/Root-Cause-Analysis-RCA/blob/e8ef06855391bfb43dc31d2d4202afd3f4941d36/Screenshot%201.png)
+
 # Step 3: Report Creation
 
   1. Add a Card visual, using the car_id column with the Count function to represent the number of vehicles. Rename it to Vehicles Analyzed.
@@ -35,3 +37,5 @@ To do this, you will have to:
   3. Drag CO2 Emission into the Analyze field and other relevant attributes (except car_id) into the Explain by field.
 
   4. Analyze the key influencers displayed by the visual.
+
+![image_alt]?()
