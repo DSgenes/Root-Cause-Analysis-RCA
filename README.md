@@ -102,7 +102,7 @@ To do this, you will have to:
 
       bins to the chart.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Root-Cause-Analysis-RCA/blob/35276a7d636f603c89f9a35fd1ab3fe07ad314e0/Screenshot%2010.png)
 
    5. Close all previously opened tabs in the decomposition tree visualization.
 
