@@ -38,4 +38,4 @@ To do this, you will have to:
 
   4. Analyze the key influencers displayed by the visual.
 
-![image_alt]?()
+![image_alt]?(https://github.com/DSgenes/Root-Cause-Analysis-RCA/blob/257a86ab9623d43c82a78286220af7fd9a95d535/Screenshot%202.png)
