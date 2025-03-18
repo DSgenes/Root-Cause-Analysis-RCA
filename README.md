@@ -66,7 +66,7 @@ To do this, you will have to:
 
    4. In the remaining segments, observe that besides the previously visualized fields, Powertrain and Transmission combined are also key factors influencing CO2 emissions.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Root-Cause-Analysis-RCA/blob/80180b736179f12fd2e012a9e5df48c0be9d705e/Screenshot%206.png)
 
   5. Create a new visualization to highlight the relationship between Powertrain, Transmission, and CO2 Emissions.
 
