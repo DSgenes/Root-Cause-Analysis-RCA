@@ -49,3 +49,74 @@ To do this, you will have to:
      • Add Engine Size (cm³) to the X-axis and CO2 Emission to the Y-axis.
 
      • Change the default Sum of CO2 Emission on the Y-axis to Average by clicking the down arrow next to the field.
+
+![image_alt]()
+
+# Step 4: Use Top Segments Tool
+
+   1. Go to the Top Segments tool, located as the second tab at the top of the visualization.
+
+![image_alt]()
+
+   2. Explore the top segments to identify the main attribute groups affecting CO2 emissions.
+
+   3. Observe that Sum of Engine Size is a segment on its own, significantly influencing CO2 emissions, reinforcing the importance of the scatter plot from the previous step.
+
+![image_alt]()
+
+   4. In the remaining segments, observe that besides the previously visualized fields, Powertrain and Transmission combined are also key factors influencing CO2 emissions.
+
+![image_alt]()
+
+  5. Create a new visualization to highlight the relationship between Powertrain, Transmission, and CO2 Emissions.
+
+     Place Powertrain on the Y-axis (due to its higher cardinality) and Transmission in the Legend.
+
+![image_alt]()
+
+ Include Fuel Type in the Report
+
+  6. Add the Fuel Type field to the report.
+
+     • Identify the top three fuel types that contribute to over 90% of CO2 emissions.
+
+     • Use a Pie or Donut chart to visualize the distribution of these fuel types.
+
+![image_alt]()
+
+# Step 5: Build a Decomposition Tree with AI Capabilities
+
+   1. Click the + symbol at the bottom of the canvas to add a new page to your report.Select the Decomposition Tree visualization from the Visualizations pane and adjust the visual to fill
+     
+      the screen.
+
+   2. Add the Average of CO2 Emission to the Analyze field and relevant attributes to the Explain by field.
+
+![image_alt]()
+
+   3. Expand all attributes in the decomposition tree by clicking the + symbol on the right side of each bar. Note that Engine Size (cm³), due to its high cardinality, cannot be
+   
+      effectively visualized in the tree.
+
+   4. Right-click the Engine Size (cm³) column and select New Group to group the data into five equal-sized bins. Remove the ungrouped Engine Size (cm³) column and add the newly created
+
+      bins to the chart.
+
+![image_alt]()
+
+   5. Close all previously opened tabs in the decomposition tree visualization.
+
+     • Use Powertrain as the first hierarchy selection and select Low value for the remaining attributes.
+
+     • Leverage the AI functionality to identify the lowest average CO2 emission for vehicles with Powertrain: Hybrid Electric Vehicle (HEV).
+
+![image_alt]()
+
+# Summary
+   
+   In this exercise, you learned how to create an effective report by utilizing specialized Power BI visualizations like key influencers and decomposition trees to uncover meaningful 
+   
+   patterns in data. By harnessing the power of AI-driven visuals, you built a detailed report that illustrates the connection between vehicle attributes and CO2 emissions, providing a 
+   
+   clear understanding of their impact on air pollution.
+
