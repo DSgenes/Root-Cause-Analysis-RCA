@@ -56,9 +56,9 @@ To do this, you will have to:
 
    1. Go to the Top Segments tool, located as the second tab at the top of the visualization.
 
-![image_alt]()
-
    2. Explore the top segments to identify the main attribute groups affecting CO2 emissions.
+
+![image_alt](https://github.com/DSgenes/Root-Cause-Analysis-RCA/blob/fd15e23ffa53f1afbf31c052b5a3d8afb1301c89/Screenshot%204.png)
 
    3. Observe that Sum of Engine Size is a segment on its own, significantly influencing CO2 emissions, reinforcing the importance of the scatter plot from the previous step.
 
