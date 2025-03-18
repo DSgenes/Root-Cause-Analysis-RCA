@@ -72,7 +72,7 @@ To do this, you will have to:
 
      Place Powertrain on the Y-axis (due to its higher cardinality) and Transmission in the Legend.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Root-Cause-Analysis-RCA/blob/f5381bfd8201aa14a4cad2f0b1081a2b3084127e/Screenshot%207.png)
 
  Include Fuel Type in the Report
 
